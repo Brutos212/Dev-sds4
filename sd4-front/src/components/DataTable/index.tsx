@@ -14,35 +14,35 @@ const DataTable = () => {
                 <tbody>
                     <tr>
                         <td>11/10/2021</td>
-                        <td>Barry Allen</td>
+                        <td>José</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>11/10/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Pedro</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>11/10/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Maria</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>11/10/2021</td>
-                        <td>Barry Allen</td>
+                        <td>João</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
                     </tr>
                     <tr>
                         <td>11/10/2021</td>
-                        <td>Barry Allen</td>
+                        <td>Paulo</td>
                         <td>34</td>
                         <td>25</td>
                         <td>15017.00</td>
